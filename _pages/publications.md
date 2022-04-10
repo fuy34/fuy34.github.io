@@ -97,7 +97,7 @@ author_profile: true
 				</p>
 			</td>
 		</tr>
-		<!-- <tr style="border: 1px solid transparent">
+		<tr style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
 			<b>Geometry Inspired Deep Neural Netwokrs For 3D Reconstruction</b> [<a href="https://aip.scitation.org/doi/abs/10.1063/1.4943017">pdf</a>] <br>
 				Ph.D. dissertation, The Pennsylvania State University, 2022.<br>
@@ -110,9 +110,9 @@ author_profile: true
 				M.S. thesis, Tianjin University, 2017.<br>
 		        Advisor: Dr. Bin Wu.
 		     </p>		
-		</tr> -->
+		</tr>
 
-</table>
+<!-- </table> -->
 <!-- </body>
 </html> -->
 

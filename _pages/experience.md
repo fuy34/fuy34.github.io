@@ -20,24 +20,34 @@ author_profile: true
 <h2>Professional Experience</h2>
 <ul>
 <li>
-<b>Amazon</b> <br>
+<b>Amazon</b> 
   <p> Applied Scientist Intern.  &emsp;	May. 2021 - Aug. 2021 </p>
 </li><br>
 
 <li>
-<b>Amazon</b> <br>
+<b>Amazon</b>
    <p>Applied Scientist Intern. &emsp;	May. 2020 - Aug. 2020 </p>
-<br>
 </li><br>
 
 <li>
-<b>ByteDance (TikTok)</b> <br>
+<b>ByteDance (TikTok)</b> 
    <p> Reserch Intern. 			&emsp;	May. 2019 - Aug. 2019</p>
-<br>
 </li><br>
-
 </ul>
 
+<h2>Teaching Experience</h2>
+<ul>
+<li>
+<b>DS340 - Applied Data Science</b> 
+  <p> Teaching Assistant.  &emsp;	Aug. 2020 - Dec. 2020 </p>
+   <p> College of Information Scienece and Techonolgy, The Pennsylvania State University</p>
+</li><br>
+<li>
+
+<b>Principle of Automatic Control</b> 
+  <p> Teaching Assistant.  &emsp;	Sept. 2015 - Feb. 2016</p>
+   <p> School of Precision Instruments and Optoelectronics Engineering, Tianjin University</p>
+</li><br>
 </body>
 </html>
 
