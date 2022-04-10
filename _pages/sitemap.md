@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "Sitemap"
+title: "Visitor Map"
 permalink: /sitemap/
 author_profile: true
 ---
 
-{% include base_path %}
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EqM8APBwZddFiRl2Js_iN5nEDm586oLEL1RQcgJPTbw&cl=ffffff&w=a"></script>
+
+{<!-- % include base_path %}
 
 A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
@@ -34,4 +36,4 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
-{% endfor %}
+{% endfor %} -->
