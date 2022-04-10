@@ -38,7 +38,7 @@ author_profile: true
 				<b>PlanarRecon: Real-time 3D Plane Detection and Reconstructionfrom Posed Monocular Videos</b><br>
 				<b>Yiming Xie, Matheus Gadelha, <b>Fengting Yang</b>, Xiaowei Zhou, Huaizu Jiang1<br>
 				IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2022.<br>
-				[<a href="https://fuy34.github.io/files/07746.pdf">paper</a>][<a href="https://fuy34.github.io/files/07746-supp.pdf">supp</a>]<!-- [<a href="https://github.com/fuy34/DFV">code</a>] -->
+				[<a href="https://fuy34.github.io/files/07746.pdf">paper</a>][<a href="https://fuy34.github.io/files/07746-supp.pdf">supp</a>]
 			  </p>
 		  </td>
 		</tr>
@@ -65,7 +65,7 @@ author_profile: true
 			</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/no_total_station.jpg" width="150"></td>
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/no_total_station.jpge" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
 				<b>A cost-effective non-orthogonal 3D measurement system</b> <br>
@@ -87,7 +87,7 @@ author_profile: true
 			</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/no_theodolite.jpg" width="150"></td>
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/no_theodolite.png" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
 				<b>A Novel Calibration Method for Non-orthogonal Shaft Laser Theodolite Measurement System</b> <br>
@@ -98,6 +98,8 @@ author_profile: true
 			</td>
 		</tr>
 </table>
+
+<br>
 
 <h2>Dissertation and Thesis</h2>
  
@@ -114,7 +116,7 @@ author_profile: true
 		Advisor: Dr. Bin Wu.
     </li><br>
    </ul>
-   
+
 </body>
 </html>
 
