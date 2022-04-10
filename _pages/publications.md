@@ -65,7 +65,7 @@ author_profile: true
 			</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/no_total_station.jpge" width="150"></td>
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/no_total_station.png" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
 				<b>A cost-effective non-orthogonal 3D measurement system</b> <br>
@@ -97,28 +97,25 @@ author_profile: true
 				</p>
 			</td>
 		</tr>
+		<tr style="border: 1px solid transparent">
+			<p style="text-indent: 0em">
+			<b>Geometry Inspired Deep Neural Netwokrs For 3D Reconstruction</b> [<a href="https://aip.scitation.org/doi/abs/10.1063/1.4943017">pdf</a>] <br>
+				Ph.D. dissertation, The Pennsylvania State University, 2022.<br>
+		        Advisor: Dr. Sharon Xiaolei Huang.	
+		    </p>	
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<p style="text-indent: 0em">
+			<b> Research on the Non-orthogonal Measurement Instrument for Large-scale Metrology</b> [<a href="http://60.29.199.67:18081/KCMS/detail/detail.aspx?filename=1018061833.nh&dbcode=CMFD&dbname=CMFD2018">pdf</a>] <br>
+				M.S. thesis, Tianjin University, 2017.<br>
+		        Advisor: Dr. Bin Wu.
+		     </p>		
+		</tr>
+
 </table>
-
-<br>
-
-<h2>Dissertation and Thesis</h2>
- 
-  <ul>
-
-   <li>
-   <b>Geometry Inspired Deep Neural Netwokrs For 3D Reconstruction</b>[<a href="https://drive.google.com/file/d/1gvmFLj1Q37N783XiKvvf969EV0co3hr6/view?usp=sharing">pdf</a>]<br>
-		Ph.D. dissertation, The Pennsylvania State University, 2022.<br>
-		Advisor: Dr. Sharon Xiaolei Huang.
-    </li><br>
-	<li>
-     <b> Research on the Non-orthogonal Measurement Instrument for Large-scale Metrology</b>[<a href="http://60.29.199.67:18081/KCMS/detail/detail.aspx?filename=1018061833.nh&dbcode=CMFD&dbname=CMFD2018">pdf</a>]<br>
-     	M.S. thesis, Tianjin University, 2017.<br>
-		Advisor: Dr. Bin Wu.
-    </li><br>
-   </ul>
-
 </body>
 </html>
+
 
 <!-- 
 ### Superpixel Segmentation with Fully Convolutional Networks 
