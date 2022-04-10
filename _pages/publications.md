@@ -97,6 +97,7 @@ author_profile: true
 				</p>
 			</td>
 		</tr>
+		---
 		<tr style="border: 1px ">
 			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/penn_state.png" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
