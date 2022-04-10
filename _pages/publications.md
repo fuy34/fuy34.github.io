@@ -65,7 +65,7 @@ author_profile: true
 			</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/no_total_station.png" width="150"></td>
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/no_total_station_crop.png" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
 				<b>A cost-effective non-orthogonal 3D measurement system</b> <br>
@@ -87,7 +87,7 @@ author_profile: true
 			</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/no_theodolite_crop.png" width="150"></td>
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/no_theodolite_crop2.png" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
 				<b>A Novel Calibration Method for Non-orthogonal Shaft Laser Theodolite Measurement System</b> <br>
@@ -102,12 +102,12 @@ author_profile: true
 <h2>Disseration and Thesis</h2>
 <table style="border: 1px solid transparent">
 		<tr style="border: 1px ">
-			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/penn_state.png" width="150"></td>
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/penn_state_logo.png" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
 				<b>Geometry Inspired Deep Neural Netwokrs For 3D Reconstruction</b> <br>
 				Ph.D. dissertation, The Pennsylvania State University, 2022.<br>
-				Advisor: Dr. Sharon Xiaolei Huang.	
+				Advisor: Dr. Sharon Xiaolei Huang.	<br>
 				[<a href="https://drive.google.com/file/d/1gvmFLj1Q37N783XiKvvf969EV0co3hr6/view?usp=sharing">pdf</a>] 
 				</p>
 			</td>
@@ -118,14 +118,12 @@ author_profile: true
 				<p style="text-indent: 0em">
 				<b>Research on the Non-orthogonal Measurement Instrument for Large-scale Metrology</b> <br>
 				M.S. thesis, Tianjin University, 2017. (In Chinese)<br>
-				 Advisor: Dr. Bin Wu.	
+				 Advisor: Dr. Bin Wu.	<br>
 				[<a href="http://60.29.199.67:18081/KCMS/detail/detail.aspx?filename=1018061833.nh&dbcode=CMFD&dbname=CMFD2018">pdf</a>] 
 				</p>
 			</td>
 		</tr>
 </table>
-</body>
-</html>
 
 
 <!-- 
