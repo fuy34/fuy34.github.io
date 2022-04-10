@@ -119,7 +119,7 @@ author_profile: true
 				<b>Research on the Non-orthogonal Measurement Instrument for Large-scale Metrology</b> <br>
 				M.S. thesis, Tianjin University, 2017. (In Chinese)<br>
 				 Advisor: Dr. Bin Wu.	<br>
-				[<a href="http://60.29.199.67:18081/KCMS/detail/detail.aspx?filename=1018061833.nh&dbcode=CMFD&dbname=CMFD2018">pdf</a>] 
+				[<a href="http://60.29.199.67:18081/KCMS/detail/detail.aspx?filename=1018061833.nh&dbcode=CMFD&dbname=CMFD2018">link</a>] 
 				</p>
 			</td>
 		</tr>
