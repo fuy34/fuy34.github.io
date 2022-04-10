@@ -36,7 +36,7 @@ author_profile: true
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<b>PlanarRecon: Real-time 3D Plane Detection and Reconstructionfrom Posed Monocular Videos</b><br>
-				Yiming Xie, Matheus Gadelha, <b>Fengting Yang</b>, Xiaowei Zhou, Huaizu Jiang1<br>
+				Yiming Xie, Matheus Gadelha, <b>Fengting Yang</b>, Xiaowei Zhou, and Huaizu Jiang<br>
 				IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2022.<br>
 				[<a href="https://fuy34.github.io/files/07746.pdf">paper</a>][<a href="https://fuy34.github.io/files/07746-supp.pdf">supp</a>]
 			  </p>
@@ -69,7 +69,7 @@ author_profile: true
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
 				<b>A cost-effective non-orthogonal 3D measurement system</b> <br>
-				 <b>Fengting Yang</b>, Bin Wu, Ting Xue, Mohammed Farhan Ahmed and Jie Huang<br>
+				 <b>Fengting Yang</b>, Bin Wu, Ting Xue, Mohammed Farhan Ahmed, and Jie Huang<br>
 				Measurement, 2018.<br>
 				[<a href="https://www.sciencedirect.com/science/article/pii/S0263224118305748">paper</a>]
 				</p>
