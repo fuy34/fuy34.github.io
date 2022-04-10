@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title:
 permalink: /publications/
 author_profile: true
 ---
@@ -82,7 +82,7 @@ author_profile: true
 				<b>The Error Analysis of the Non-Orthogonal Total Station Coordinate Measurement System</b> <br>
 				Bin Wu, Wen Ding, <b>Fengting Yang</b>, and Ting Xue<br>
 				Acta Metrologica Sinica, 2017. (In Chinese)<br>
-				[<a href="https://www.sciencedirect.com/science/article/pii/S0263224118305748">paper</a>]
+				[<a href="http://jlxb.china-csm.org:81/Jwk_jlxb/CN/abstract/abstract1105.shtml">paper</a>]
 				</p>
 			</td>
 		</tr>
@@ -108,7 +108,7 @@ author_profile: true
 				<b>Geometry Inspired Deep Neural Netwokrs For 3D Reconstruction</b> <br>
 				Ph.D. dissertation, The Pennsylvania State University, 2022.<br>
 				Advisor: Dr. Sharon Xiaolei Huang.	<br>
-				[<a href="https://drive.google.com/file/d/1gvmFLj1Q37N783XiKvvf969EV0co3hr6/view?usp=sharing">pdf</a>] 
+				[<a href="https://drive.google.com/file/d/1gvmFLj1Q37N783XiKvvf969EV0co3hr6/view?usp=sharing">pdf</a>][<a href="https://github.com/fuy34/planerecover">ch2_code</a>][<a href="https://github.com/fuy34/SPPSMStereo">ch3_code</a>][<a href="https://github.com/fuy34/indoorMVS">ch4_code</a>][<a href="https://github.com/fuy34/DFV">ch5_code</a>] 
 				</p>
 			</td>
 		</tr>

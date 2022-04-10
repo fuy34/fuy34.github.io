@@ -14,7 +14,7 @@ Applied Scientist Intern  &emsp;  May. 2021 - Aug. 2021
 Applied Scientist Intern  &emsp;   May. 2020 - Aug. 2020
 
 **ByteDance (TikTok)** <br />
-Reserch Intern  &emsp;  &emsp; &emsp; &emsp;	May. 2019 - Aug. 2019<br />
+Reserch Intern  &nbsp; &emsp;  &emsp; &emsp; &emsp;	May. 2019 - Aug. 2019<br />
 
 ---
 ## Teaching Experience
