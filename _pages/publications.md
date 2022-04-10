@@ -20,9 +20,9 @@ author_profile: true
 <h2>Publications</h2>
 
 <table style="border: 1px solid transparent">
-		<tr>
-			<td height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/cvpr22a.png" width="150"></td>
-			<td height="112">
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/cvpr22a.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<b>Deep Depth from Focus with Differential Focus Volume</b><br>
 				<b>Fengting Yang</b>, Xiaolei Huang, and Zihan Zhou<br>
@@ -31,9 +31,9 @@ author_profile: true
 			  </p>
 		  </td>
 		</tr>
-		<tr>
-			  <td height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/cvpr20.png" width="150"></td>
-			  <td height="112">
+		<tr style="border: 1px solid transparent">
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/cvpr20.png" width="150"></td>
+			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
 				<b>Superpixel Segmentation with Fully Convolutional Networks</b> <br>
 				 <b>Fengting Yang</b>, Qian Sun, Hailin Jin, and Zihan Zhou<br>
