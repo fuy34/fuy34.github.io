@@ -5,20 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-
+<!-- 
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="description" content="Your description goes here" />
 	<meta name="keywords" content="your,keywords,goes,here" />
 	<meta name="author" content="Your Name" />
 	<link rel="stylesheet" type="text/css" href="https://fuy34.github.io/1024px.css" title="1024px" media="screen,projection" />
-	<!-- <title>Zihan Zhou's Homepage</title> -->
+	<title>Zihan Zhou's Homepage</title>
 </head>
-
+ #border="0" width="850" cellspacing="1" bordercolor="#ffffff"
+ -->
 <body>
 <h2>Publications</h2>
 
-<table border="0" width="850" cellspacing="1" bordercolor="#ffffff">
+<table style="border: 1px solid transparent">
 		<tr>
 			<td height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/cvpr22a.png" width="150"></td>
 			<td height="112">
