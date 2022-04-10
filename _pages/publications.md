@@ -97,20 +97,29 @@ author_profile: true
 				</p>
 			</td>
 		</tr>
-		<tr style="border: 1px solid transparent">
-			<p style="text-indent: 0em">
-			<b>Geometry Inspired Deep Neural Netwokrs For 3D Reconstruction</b> [<a href="https://aip.scitation.org/doi/abs/10.1063/1.4943017">pdf</a>] <br>
+		<tr style="border: 1px ">
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/penn_state.png" width="150"></td>
+			  <td height="112" style="border: 1px solid transparent">
+				<p style="text-indent: 0em">
+				<b>Geometry Inspired Deep Neural Netwokrs For 3D Reconstruction</b> <br>
 				Ph.D. dissertation, The Pennsylvania State University, 2022.<br>
-		        Advisor: Dr. Sharon Xiaolei Huang.	
-		    </p>	
+				Advisor: Dr. Sharon Xiaolei Huang.	
+				[<a href="https://drive.google.com/file/d/1gvmFLj1Q37N783XiKvvf969EV0co3hr6/view?usp=sharing">pdf</a>] 
+				</p>
+			</td>
 		</tr>
-		<tr style="border: 1px solid transparent">
-			<p style="text-indent: 0em">
-			<b> Research on the Non-orthogonal Measurement Instrument for Large-scale Metrology</b> [<a href="http://60.29.199.67:18081/KCMS/detail/detail.aspx?filename=1018061833.nh&dbcode=CMFD&dbname=CMFD2018">pdf</a>] <br>
-				M.S. thesis, Tianjin University, 2017.<br>
-		        Advisor: Dr. Bin Wu.
-		     </p>		
+			<tr style="border: 1px solid transparent">
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/TJU_logo.png" width="150"></td>
+			  <td height="112" style="border: 1px solid transparent">
+				<p style="text-indent: 0em">
+				<b>Research on the Non-orthogonal Measurement Instrument for Large-scale Metrology</b> <br>
+				M.S. thesis, Tianjin University, 2017. (In Chinese)<br>
+				 Advisor: Dr. Bin Wu.	
+				[<a href="http://60.29.199.67:18081/KCMS/detail/detail.aspx?filename=1018061833.nh&dbcode=CMFD&dbname=CMFD2018">pdf</a>] 
+				</p>
+			</td>
 		</tr>
+	
 
 <!-- </table> -->
 <!-- </body>

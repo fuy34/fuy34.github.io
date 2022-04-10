@@ -4,18 +4,27 @@ title: ""
 permalink: /experience/
 author_profile: true
 ---
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+## Professional Experience
+
+**Amazon** <br />
+Applied Scientist Intern.  &emsp;	May. 2021 - Aug. 2021
+
+**Amazon** <br />
+Applied Scientist Intern.  &emsp;	May. 2020 - Aug. 2020
+
+**ByteDance (TikTok)** <br />
+Reserch Intern.			&emsp;	May. 2019 - Aug. 2019
+
+---
+## Teaching Experience
+
+**DS340 - Applied Data Science** <br />
+Teaching Assistant.		 &emsp;		May. 2019 - Aug. 2019<br />
+College of Information Scienece and Techonolgy, The Pennsylvania State University <br />
+
+
 <!-- 
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="description" content="Your description goes here" />
-	<meta name="keywords" content="your,keywords,goes,here" />
-	<meta name="author" content="Your Name" />
-	<link rel="stylesheet" type="text/css" href="https://fuy34.github.io/1024px.css" title="1024px" media="screen,projection" />
-	<title>Zihan Zhou's Homepage</title>
-</head>
- #border="0" width="850" cellspacing="1" bordercolor="#ffffff"
- -->
 <body>
 <h2>Professional Experience</h2>
 <ul>
@@ -49,7 +58,7 @@ author_profile: true
    <p> School of Precision Instruments and Optoelectronics Engineering, Tianjin University</p>
 </li><br>
 </body>
-</html>
+</html> -->
 
 <!-- 
 ### Superpixel Segmentation with Fully Convolutional Networks 
