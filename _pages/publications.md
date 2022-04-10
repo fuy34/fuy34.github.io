@@ -17,7 +17,7 @@ author_profile: true
  #border="0" width="850" cellspacing="1" bordercolor="#ffffff"
  -->
 
-<h2>Publications</h2>
+<h2>Selected Publications</h2>
 
 <table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
@@ -68,7 +68,7 @@ author_profile: true
 			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/no_total_station_crop.png" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
-				<b>A cost-effective non-orthogonal 3D measurement system</b> <br>
+				<b>A Cost-effective Non-orthogonal 3D Measurement System</b> <br>
 				 <b>Fengting Yang</b>, Bin Wu, Ting Xue, Mohammed Farhan Ahmed, and Jie Huang<br>
 				Measurement, 2018.<br>
 				[<a href="https://www.sciencedirect.com/science/article/pii/S0263224118305748">paper</a>]

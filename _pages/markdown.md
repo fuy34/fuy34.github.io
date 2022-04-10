@@ -9,7 +9,7 @@ redirect_from:
 
 ## Leisure Time
 
-Apart from being a Ph.D. student, I enjoy my time with movies, computer games, and travel. I also like to play badminton and billiards, regardless of my poor skill.
+Apart from being a Ph.D. student, I enjoy my time with movies, computer games, and travel. I also like to play badminton and billiards, regardless of my poor skill. :p
 
 ## My Hometown
 

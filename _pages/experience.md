@@ -9,12 +9,16 @@ author_profile: true
 
 **Amazon** <br />
 Applied Scientist Intern  &emsp;  May. 2021 - Aug. 2021
+* Worked on projects related to 3D data processing, 3D reconstruction, floor layout estimation, and multi-camera pose estimation.<br />
 
 **Amazon** <br />
 Applied Scientist Intern  &emsp;   May. 2020 - Aug. 2020
+* Developed multiple depth estimation methods for various inputs. The final model exceeded the targeted accuracy by 21% in terms of RMSE.<br />
 
 **ByteDance (TikTok)** <br />
 Reserch Intern  &nbsp; &emsp;  &emsp; &emsp; &emsp;	May. 2019 - Aug. 2019<br />
+* Developed a single-view plane recovery model trained with only depth supervision. The final model improved the plane parameter accuracy by 27% compared to the
+baseline approach.<br />
 
 ---
 ## Teaching Experience
