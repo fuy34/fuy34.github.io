@@ -4,12 +4,20 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Your description goes here" />
+	<meta name="keywords" content="your,keywords,goes,here" />
+	<meta name="author" content="Your Name" />
+	<link rel="stylesheet" type="text/css" href="1024px.css" title="1024px" media="screen,projection" />
+	<!-- <title>Zihan Zhou's Homepage</title> -->
+</head>
 
 <h2>Publications</h2>
 
 <table border="0" width="850" cellspacing="1">
 		<tr>
-			<td height="112" width='150' align="left"><img border="2" src="images/cvpr22a.png" width="150"></td>
+			<td height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/cvpr22a.png" width="150"></td>
 			<td height="112">
 			  <p style="text-indent: 0em">
 				<b>Deep Depth from Focus with Differential Focus Volume</b><br>
@@ -20,11 +28,11 @@ author_profile: true
 		  </td>
 		</tr>
 		<tr>
-			  <td height="112" width='150' align="left"><img border="2" src="images/cvpr20.png" width="150"></td>
+			  <td height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/cvpr20.png" width="150"></td>
 			  <td height="112">
 				<p style="text-indent: 0em">
 				<b>Superpixel Segmentation with Fully Convolutional Networks</b> <br>
-				Fengting Yang, Qian Sun, Hailin Jin, and <b>Zihan Zhou</b><br>
+				 <b>Fengting Yang</b>, Qian Sun, Hailin Jin, and Zihan Zhou<br>
 				IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2020.<br>
 				[<a href="http://arxiv.org/abs/2003.12929">paper</a>] [<a href="https://github.com/fuy34/superpixel_fcn">code</a>]
 				</p>
