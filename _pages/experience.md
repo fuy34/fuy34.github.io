@@ -21,18 +21,18 @@ author_profile: true
 <ul>
 <li>
 <b>Amazon</b> <br>
-  <p> Applied Scientist Intern.  &emsp	May. 2021 - Aug. 2021 </p>
+  <p> Applied Scientist Intern.  &emsp;	May. 2021 - Aug. 2021 </p>
 </li><br>
 
 <li>
 <b>Amazon</b> <br>
-   <p>Applied Scientist Intern. &emsp	May. 2020 - Aug. 2020 </p>
+   <p>Applied Scientist Intern. &emsp;	May. 2020 - Aug. 2020 </p>
 <br>
 </li><br>
 
 <li>
 <b>ByteDance (TikTok)</b> <br>
-   <p> Reserch Intern. 			&emsp	May. 2019 - Aug. 2019</p>
+   <p> Reserch Intern. 			&emsp;	May. 2019 - Aug. 2019</p>
 <br>
 </li><br>
 
