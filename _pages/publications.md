@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -17,7 +17,7 @@ author_profile: true
  #border="0" width="850" cellspacing="1" bordercolor="#ffffff"
  -->
 
-<!-- <h2>Publications</h2> -->
+<h2>Publications</h2>
 
 <table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
@@ -36,7 +36,7 @@ author_profile: true
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<b>PlanarRecon: Real-time 3D Plane Detection and Reconstructionfrom Posed Monocular Videos</b><br>
-				<b>Yiming Xie, Matheus Gadelha, <b>Fengting Yang</b>, Xiaowei Zhou, Huaizu Jiang1<br>
+				Yiming Xie, Matheus Gadelha, <b>Fengting Yang</b>, Xiaowei Zhou, Huaizu Jiang1<br>
 				IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2022.<br>
 				[<a href="https://fuy34.github.io/files/07746.pdf">paper</a>][<a href="https://fuy34.github.io/files/07746-supp.pdf">supp</a>]
 			  </p>
@@ -87,7 +87,7 @@ author_profile: true
 			</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/no_theodolite.png" width="150"></td>
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/no_theodolite_crop.png" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
 				<b>A Novel Calibration Method for Non-orthogonal Shaft Laser Theodolite Measurement System</b> <br>
@@ -97,7 +97,10 @@ author_profile: true
 				</p>
 			</td>
 		</tr>
-		---
+</table>
+
+<h2>Disseration and Thesis</h2>
+<table style="border: 1px solid transparent">
 		<tr style="border: 1px ">
 			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/penn_state.png" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
@@ -120,11 +123,9 @@ author_profile: true
 				</p>
 			</td>
 		</tr>
-	
-
-<!-- </table> -->
-<!-- </body>
-</html> -->
+</table>
+</body>
+</html>
 
 
 <!-- 
