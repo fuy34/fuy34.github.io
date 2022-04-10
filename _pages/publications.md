@@ -27,7 +27,18 @@ author_profile: true
 				<b>Deep Depth from Focus with Differential Focus Volume</b><br>
 				<b>Fengting Yang</b>, Xiaolei Huang, and Zihan Zhou<br>
 				IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2022.<br>
-				[<a href="https://arxiv.org/abs/2112.01712">paper</a>][<a href="https://github.com/fuy34/DFV">code</a>]
+				[<a href="https://fuy34.github.io/files/06107.pdf">paper</a>][<a href="https://fuy34.github.io/files/06107-supp.pdf">supp</a>][<a href="https://github.com/fuy34/DFV">code</a>]
+			  </p>
+		  </td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/cvpr22b.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<b>PlanarRecon: Real-time 3D Plane Detection and Reconstructionfrom Posed Monocular Videos</b><br>
+				<b>Yiming Xie, Matheus Gadelha, <b>Fengting Yang</b>, Xiaowei Zhou, Huaizu Jiang1<br>
+				IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2022.<br>
+				[<a href="https://fuy34.github.io/files/07746.pdf">paper</a>][<a href="https://fuy34.github.io/files/07746-supp.pdf">supp</a>]<!-- [<a href="https://github.com/fuy34/DFV">code</a>] -->
 			  </p>
 		  </td>
 		</tr>
@@ -38,11 +49,72 @@ author_profile: true
 				<b>Superpixel Segmentation with Fully Convolutional Networks</b> <br>
 				 <b>Fengting Yang</b>, Qian Sun, Hailin Jin, and Zihan Zhou<br>
 				IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2020.<br>
-				[<a href="http://arxiv.org/abs/2003.12929">paper</a>] [<a href="https://github.com/fuy34/superpixel_fcn">code</a>]
+				[<a href="https://fuy34.github.io/files/08460.pdf">paper</a>][<a href="https://fuy34.github.io/files/08460-supp.pdf">supp</a>][<a href="https://github.com/fuy34/superpixel_fcn">code</a>]
+				</p>
+			</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/eccv18.png" width="150"></td>
+			  <td height="112" style="border: 1px solid transparent">
+				<p style="text-indent: 0em">
+				<b>Recovering 3D Planes from a Single Image via Convolutional Neural Networks</b> <br>
+				 <b>Fengting Yang</b> and Zihan Zhou<br>
+				European Conference on Computer Vision (<b>ECCV</b>), 2018.<br>
+				[<a href="https://fuy34.github.io/files/1511.pdf">paper</a>][<a href="https://fuy34.github.io/files/1511-supp.pdf">supp</a>][<a href="https://github.com/fuy34/planerecover">code</a>]
+				</p>
+			</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/no_total_station.jpg" width="150"></td>
+			  <td height="112" style="border: 1px solid transparent">
+				<p style="text-indent: 0em">
+				<b>A cost-effective non-orthogonal 3D measurement system</b> <br>
+				 <b>Fengting Yang</b>, Bin Wu, Ting Xue, Mohammed Farhan Ahmed and Jie Huang<br>
+				Measurement, 2018.<br>
+				[<a href="https://www.sciencedirect.com/science/article/pii/S0263224118305748">paper</a>]
+				</p>
+			</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/theodolite_err.png" width="150"></td>
+			  <td height="112" style="border: 1px solid transparent">
+				<p style="text-indent: 0em">
+				<b>The Error Analysis of the Non-Orthogonal Total Station Coordinate Measurement System</b> <br>
+				Bin Wu, Wen Ding, <b>Fengting Yang</b>, and Ting Xue<br>
+				Acta Metrologica Sinica, 2017. (In Chinese)<br>
+				[<a href="https://www.sciencedirect.com/science/article/pii/S0263224118305748">paper</a>]
+				</p>
+			</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/no_theodolite.jpg" width="150"></td>
+			  <td height="112" style="border: 1px solid transparent">
+				<p style="text-indent: 0em">
+				<b>A Novel Calibration Method for Non-orthogonal Shaft Laser Theodolite Measurement System</b> <br>
+				Bin Wu, <b>Fengting Yang</b>, Wen Ding, and Ting Xue<br>
+				Review of Scientific Instruments, 2016.<br>
+				[<a href="https://aip.scitation.org/doi/abs/10.1063/1.4943017">paper</a>]
 				</p>
 			</td>
 		</tr>
 </table>
+
+<h2>Dissertation and Thesis</h2>
+ 
+  <ul>
+
+   <li>
+   <b>Geometry Inspired Deep Neural Netwokrs For 3D Reconstruction</b>[<a href="https://drive.google.com/file/d/1gvmFLj1Q37N783XiKvvf969EV0co3hr6/view?usp=sharing">pdf</a>]<br>
+		Ph.D. dissertation, The Pennsylvania State University, 2022.<br>
+		Advisor: Dr. Sharon Xiaolei Huang.
+    </li><br>
+	<li>
+     <b> Research on the Non-orthogonal Measurement Instrument for Large-scale Metrology</b>[<a href="http://60.29.199.67:18081/KCMS/detail/detail.aspx?filename=1018061833.nh&dbcode=CMFD&dbname=CMFD2018">pdf</a>]<br>
+     	M.S. thesis, Tianjin University, 2017.<br>
+		Advisor: Dr. Bin Wu.
+    </li><br>
+   </ul>
+   
 </body>
 </html>
 
