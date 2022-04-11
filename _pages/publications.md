@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -17,7 +17,7 @@ author_profile: true
  #border="0" width="850" cellspacing="1" bordercolor="#ffffff"
  -->
 
-<h2>Selected Publications</h2>
+<!-- <h2>Selected Publications</h2> -->
 
 <table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
