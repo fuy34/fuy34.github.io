@@ -13,6 +13,7 @@ I am a 5th-year Ph.D. student at [Penn State](https://www.psu.edu/), working wit
 My research interest lies in **computer vision**, **deep learning**, and **3D metrology**. Most of my recent works focus on integrating geometry priors into deep neural networks for **3D vision** tasks. Please refer to my [CV](https://fuy34.github.io/files/CV_github2.pdf) for more details.
 
 ## Recent News
+* 05/2022: Now I am offically Dr. Fengting Yang! 
 * 03/2022: Two papers were accepted to [CVPR'22](https://cvpr2022.thecvf.com/).
 * 02/2022: Passed my final Ph.D. defense!
 * 12/2021: Accepted Applied Reserach Scientist offer from [Meta Reality Lab](https://about.facebook.com/realitylabs/).
