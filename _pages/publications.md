@@ -16,7 +16,6 @@ author_profile: true
 </head>
  #border="0" width="850" cellspacing="1" bordercolor="#ffffff"
  -->
-
 <!-- <h2>Selected Publications</h2> -->
 
 <table style="border: 1px solid transparent">
@@ -27,7 +26,7 @@ author_profile: true
 				<b>Deep Depth from Focus with Differential Focus Volume</b><br>
 				<b>Fengting Yang</b>, Xiaolei Huang, and Zihan Zhou<br>
 				IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2022.<br>
-				[<a href="https://fuy34.github.io/files/06107.pdf">paper</a>][<a href="https://fuy34.github.io/files/06107-supp.pdf">supp</a>][<a href="https://github.com/fuy34/DFV">code</a>]
+				[<a href="https://fuy34.github.io/files/06107.pdf">paper</a>][<a href="https://fuy34.github.io/files/06107-supp.pdf">supp</a>][<a href="https://github.com/fuy34/DFV">code</a>][<a href="https://fuy34.github.io/files/DFF_poster.pdf">poster</a>][<a href="https://www.youtube.com/watch?v=8ZL2r0ZV6_M">video</a>]
 			  </p>
 		  </td>
 		</tr>
@@ -38,7 +37,7 @@ author_profile: true
 				<b>PlanarRecon: Real-time 3D Plane Detection and Reconstructionfrom Posed Monocular Videos</b><br>
 				Yiming Xie, Matheus Gadelha, <b>Fengting Yang</b>, Xiaowei Zhou, and Huaizu Jiang<br>
 				IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2022.<br>
-				[<a href="https://fuy34.github.io/files/07746.pdf">paper</a>][<a href="https://fuy34.github.io/files/07746-supp.pdf">supp</a>]
+				[<a href="https://fuy34.github.io/files/07746.pdf">paper</a>][<a href="https://fuy34.github.io/files/07746-supp.pdf">supp</a>][<a href="https://github.com/neu-vi/planarrecon">code</a>][<a href="https://www.youtube.com/watch?v=i0mt7TMOZZY">video</a>]
 			  </p>
 		  </td>
 		</tr>
@@ -49,7 +48,7 @@ author_profile: true
 				<b>Superpixel Segmentation with Fully Convolutional Networks</b> <br>
 				 <b>Fengting Yang</b>, Qian Sun, Hailin Jin, and Zihan Zhou<br>
 				IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2020.<br>
-				[<a href="https://fuy34.github.io/files/08460.pdf">paper</a>][<a href="https://fuy34.github.io/files/08460-supp.pdf">supp</a>][<a href="https://github.com/fuy34/superpixel_fcn">code</a>]
+				[<a href="https://fuy34.github.io/files/08460.pdf">paper</a>][<a href="https://fuy34.github.io/files/08460-supp.pdf">supp</a>][<a href="https://github.com/fuy34/superpixel_fcn">code</a>][<a href="https://www.youtube.com/watch?v=wHyh_O1ifcQ">video</a>]
 				</p>
 			</td>
 		</tr>
