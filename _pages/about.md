@@ -15,7 +15,7 @@ My research interest lies in **computer vision**, **deep learning**, and **3D me
 ## Recent News
 * 08/2022: Invited to serve as a PC member for [AAAI'23](https://aaai.org/Conferences/AAAI-23/)
 * 06/2022: Joined [Meta Reality Lab](https://about.facebook.com/realitylabs/)! Let's go for Metaverse! 
-* 05/2022: Officially become Dr. Fengting Yang!
+* 05/2022: Officially became Dr. Fengting Yang!
 <!-- * 05/2022: Now I am offically Dr. Fengting Yang!  -->
 * 03/2022: Two papers were accepted to [CVPR'22](https://cvpr2022.thecvf.com/).
 * 02/2022: Passed my final Ph.D. defense!
