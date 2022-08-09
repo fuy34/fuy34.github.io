@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Professional Experience
+**Meta** <br />
+Applied Research Scientist &emsp;  Jun. 2022 - present
 
 **Amazon** <br />
 Applied Scientist Intern  &emsp;  May. 2021 - Aug. 2021
@@ -32,5 +34,12 @@ Teaching Assistant  &ensp;  &emsp;	  &emsp; 	Sept. 2015 - Feb. 2016<br />
 Tianjin University<br />
 
 ---
-## Reviewer
-**TPAMI, CVIU, T-MM, TAI, CVPRW’20, CVPR’22, ECCV’22**
+## Academic Services
+### Program Committee Member: 
+* AAAI'23
+
+### Conference Reviewer
+* AAAI'23, CVPR'22, ECCV'22, MICCAI'22, 3DV'22, CVPRW'20 
+
+### Journal Reviewer
+* TPAMI, TIP, CVIU, T-MM, TAI
