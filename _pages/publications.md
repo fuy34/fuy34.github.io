@@ -104,7 +104,7 @@ author_profile: true
 			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/penn_state_logo.png" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
-				<b>Geometry Inspired Deep Neural Netwokrs For 3D Reconstruction</b> <br>
+				<b>Geometry Inspired Deep Neural Networks For 3D Reconstruction</b> <br>
 				Ph.D. dissertation, The Pennsylvania State University, 2022.<br>
 				Advisor: Dr. Sharon Xiaolei Huang.	<br>
 				[<a href="https://drive.google.com/file/d/1gvmFLj1Q37N783XiKvvf969EV0co3hr6/view?usp=sharing">pdf</a>][<a href="https://github.com/fuy34/planerecover">ch2_code</a>][<a href="https://github.com/fuy34/SPPSMStereo">ch3_code</a>][<a href="https://github.com/fuy34/indoorMVS">ch4_code</a>][<a href="https://github.com/fuy34/DFV">ch5_code</a>] 
